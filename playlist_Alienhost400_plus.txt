@@ -1,6 +1,12 @@
 #EXTINF:-1 tvg-logo="" group-title="",JOSE
 https://raw.githubusercontent.com/Zickari0619/Deportes-chile-/main/playlist_Alienhost400_plus.txt
 
+
+
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIF.cTRFAxRJ7RIzafgN%2fiFyfw&pid=Api&P=0&w=300&h=600" group-title="ESTRENO",saw 
+
+https://server12.mxcdnab.online/newhls/3150bfd60e2c425d856c30d34ba8bc23/EP.0.2.v0.1695980810.1080.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/un-hombre-un-plan.jpg" group-title="SERIES", MAN WITH A PLAN-TEMPORADA 1 CAPITULO 01
 https://server18.mxcdnab.online/newhls/7d03da6a3443ddc23a7a30f7dd5c5c1f/EP.1.1.v0.1677051966.720.m3u8
 
